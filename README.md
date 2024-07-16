@@ -12,13 +12,13 @@ https://github.com/Victor-Ikechukwu
 
 Contributors:
 
--Nandini S S     4MH21CS059
+-Nandini S S     [4MH21CS059]
 
--Nayana Prakash  4MH21CS060
+-Nayana Prakash  [4MH21CS060]
 
--Sharanya B N    4MH21CS087
+-Sharanya B N    [4MH21CS087]
 
--Yashaswini S R  4MH21CS121
+-Yashaswini S R  [4MH21CS121]
 
 ## Table of Contents
 
