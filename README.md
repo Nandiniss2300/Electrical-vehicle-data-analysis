@@ -12,13 +12,13 @@ https://github.com/Victor-Ikechukwu
 
 Contributors:
 
--Nandini S S     [4MH21CS059]
+-Nandini S S     [4MH21CS059]  [https://github.com/Nandiniss2300/Electrical-vehicle-data-analysis]
 
--Nayana Prakash  [4MH21CS060]
+-Nayana Prakash  [4MH21CS060]  [https://github.com/Nayanaprakash-git]
 
--Sharanya B N    [4MH21CS087]
+-Sharanya B N    [4MH21CS087]  [https://github.com/sharanyabn08]
 
--Yashaswini S R  [4MH21CS121]
+-Yashaswini S R  [4MH21CS121]  [https://github.com/YashaswiniSR]
 
 ## Table of Contents
 
